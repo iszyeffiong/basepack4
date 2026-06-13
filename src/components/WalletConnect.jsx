@@ -39,3 +39,4 @@ export default WalletConnect;
 
 // update 8
 // update 16
+// update 24
